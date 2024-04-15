@@ -1,0 +1,60 @@
+header h1 {
+    display: inline-block;
+    padding-right: 900px;
+    margin-left: 25px;
+    margin-top: 4px;
+    font-family: "Open Sans", sans-serif;
+    justify-content: center;
+
+}
+#sign-up{
+    width: 80px;
+    height: 40px;
+    border: 1px solid red;
+    border-radius: 8px;
+    color: red;
+    background-color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bolder;
+    margin-left: 20px;
+
+}
+.material-symbols-outlined{
+    margin: 10px;
+}
+#l1{
+    color: #4374e0;
+    justify-content: center;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+#l2{
+    font-family: "Open Sans", sans-serif;
+    margin-top: 50px;
+}
+.box1{
+    width: 220px;
+    height: 230px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(212, 210, 210);
+    display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+#b1{
+    background-image: url(https://i.etsystatic.com/18265338/r/il/5fbb42/4479721093/il_340x270.4479721093_gfiz.jpg);
+}
+#b2{
+    background-image: url(https://i.etsystatic.com/14980522/r/il/8746e6/5806724446/il_340x270.5806724446_jqg8.jpg);
+}
+#b3{
+    background-image: url(https://i.etsystatic.com/20922675/r/il/4af949/5429391062/il_340x270.5429391062_73r2.jpg);
+}
+#b4{
+    background-image: url(https://i.etsystatic.com/6322679/r/il/6e2e53/1668127003/il_340x270.1668127003_kwjn.jpg);
+}
+#b5{
+    background-image: url(https://i.etsystatic.com/19458228/r/il/6a09b4/1985966876/il_340x270.1985966876_fmhi.jpg);
+}
